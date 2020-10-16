@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://www.google.com/search?q=image+background&tbm=isch&source=iu&ictx=1&fir=OBm9fZ86ShBRTM%252CNQfSToeGcnsTtM%252C_&vet=1&usg=AI4_-kSiEUw6H0ES92AxoogMd7sbFy3Vlg&sa=X&ved=2ahUKEwjFzvP3-KLsAhW34zgGHS3gCZQQ9QF6BAgSEGI#imgrc=OBm9fZ86ShBRTM);
+}
+
+h {
+    color: blue;
+    text-align: center;
+    background-color: black;
+    border: 5px solid yellow;
+}
+
+a1 {
+    padding: 5px;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aqua;
+    font-size: xx-large;
+}
+
+img {
+    height: 300px;
+    border: 5px solid red;
+    width: 100%;
+}
+
+button {
+    color: red;
+    background-color: black;
+    cursor: pointer;
+    padding: 1px;
+    margin: 5px;
+}
